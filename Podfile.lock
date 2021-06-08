@@ -1,0 +1,20 @@
+PODS:
+  - RestEssentials (5.2.0)
+  - SwiftyJSON (5.0.1)
+
+DEPENDENCIES:
+  - RestEssentials
+  - SwiftyJSON
+
+SPEC REPOS:
+  trunk:
+    - RestEssentials
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  RestEssentials: 8eacb16c344de12a9e885a5f9950da6a598510d8
+  SwiftyJSON: 2f33a42c6fbc52764d96f13368585094bfd8aa5e
+
+PODFILE CHECKSUM: 4d7c0f1bb66f1fbb537dfbbec0ade7d838c4653d
+
+COCOAPODS: 1.10.1
